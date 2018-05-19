@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="CustomTheme">
+        <item name="android:windowContentTransitions">true</item>
+
+    </style>
+
+
+</resources>
