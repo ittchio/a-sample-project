@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="budget">Budget</string>
+    <string name="your_budget">Your budget</string>
+    <string name="go">GO!</string>
+    <string name="pages">"&#160;Pages"</string>
+    <string name="comics">"&#160;Comics"</string>
+    <string name="total_price">"&#160;Total Price"</string>
+    <string name="price">Price:&#160;</string>
+    <string name="pagescount">"&#160;pages"</string>
+    <string name="error">Error</string>
+    <string name="transition">image_transition</string>
+
+</resources>
